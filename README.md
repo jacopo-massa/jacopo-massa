@@ -6,6 +6,6 @@
 </div>
 <div>
   <a href="https://github.com/jacopo-massa">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacopo-massa&hide=html&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacopo-massa&hide=html,jupyter%20notebook&layout=compact&theme=tokyonight" />
   </a>
 </div>
