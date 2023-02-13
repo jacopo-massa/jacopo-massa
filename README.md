@@ -18,9 +18,9 @@
 <br>
 <div>
 	<a href="https://github.com/jacopo-massa">
-		<img align="left" src="https://github-readme-stats.vercel.app/api?username=jacopo-massa&show_icons=true&count_private=true&theme=transparent" />
+		<img align="left" src="https://github-readme-stats.vercel.app/api?username=jacopo-massa&show_icons=true&count_private=true&include_orgs=true&theme=transparent" />
   </a>
   <a href="https://github.com/jacopo-massa">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacopo-massa&hide=html,java,jupyter%20notebook&layout=compact&theme=transparent" />
+		<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacopo-massa&hide=html,java,jupyter%20notebook&layout=compact&include_orgs=true&theme=transparent" />
 	</a>
 </div>
