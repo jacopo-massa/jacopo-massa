@@ -2,21 +2,21 @@
 
 <div align="center">
 	<h3></h3>
-<a href="https://www.linkedin.com/in/jacopo-massa/">
+<a href="https://www.linkedin.com/in/jacopo-massa/" target="_blank">
   <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/dark/linkedin.svg">
       <img width="100" heoght="100" alt="LinkedIn" src="assets/light/linkedin.svg"/>
   </picture>
 </a>
 &#09;
-<a href="mailto:jacopo.massa@di.unipi.it">
+<a href="mailto:jacopo.massa@di.unipi.it" target="_blank">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/dark/mail.svg">
     <img width="100" heoght="100" alt="LinkedIn" src="assets/light/mail.svg"/>
   </picture>
 </a>
 &#09;
-<a href="https://github.com/jacopo-massa">
+<a href="https://github.com/jacopo-massa" target="_blank">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/dark/github.svg">
     <img width="100" heoght="100" alt="LinkedIn" src="assets/light/github.svg"/>
