@@ -1,25 +1,16 @@
-<h1 align="center">Hi, I'm <a href="http://pages.di.unipi.it/massa">Jacopo</a> 👋</h1>
+## 👋 Hi, I’m **Jacopo**
 
-<div align="center">
-	<h3></h3>
-<a href="https://www.linkedin.com/in/jacopo-massa/" target="_blank" rel="noopener noreferrer">
-  <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/dark/linkedin.svg">
-      <img width="100" heoght="100" alt="LinkedIn" src="assets/light/linkedin.svg"/>
-  </picture>
-</a>
-&#09;
-<a href="mailto:jacopo.massa@di.unipi.it" target="_blank" rel="noopener noreferrer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/dark/mail.svg">
-    <img width="100" heoght="100" alt="LinkedIn" src="assets/light/mail.svg"/>
-  </picture>
-</a>
-&#09;
-<a href="https://github.com/jacopo-massa" target="_blank" rel="noopener noreferrer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/dark/github.svg">
-    <img width="100" heoght="100" alt="LinkedIn" src="assets/light/github.svg"/>
-  </picture>
-</a>
-</div>
+### 🔗 Connect with Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://pages.di.unipi.it/massa)&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacopo-massa/)&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jacopo.massa@di.unipi.it)
+
+---
+
+### ⭐ Recent Projects
+
+| Project                                               | Description                                                                                                                                 | Tech   |
+| ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
+| **[ECLYPSE](https://github.com/eclypse-org/eclypse)** | An Edge-Cloud python platform for simulated (and emulated) runtime environments                                                             | Python |
+| **[dGLBF](https://github.com/di-unipi-socc/dglbf)**   | Declarative implementation of [guaranteed Latency Based Forwarding](https://link.springer.com/article/10.1007/s10922-022-09718-9) approach. | Prolog |
